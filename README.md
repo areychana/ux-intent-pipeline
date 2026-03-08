@@ -13,10 +13,14 @@ Built as part of preparation for GSoC 2026 - Uramaki Lab.
 ## How to run
 
 Install dependencies:
+```
 pip install transformers torch scikit-learn
+```
 
 Run the full pipeline:
+```
 python ux_pipeline.py
+```
 
 ## Sample Output
 See sample_output.json for an example report.
