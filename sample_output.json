@@ -1,0 +1,63 @@
+{
+  "total_segments": 8,
+  "intent_summary": {
+    "user is confused": 3,
+    "user is satisfied": 2,
+    "user is frustrated": 3
+  },
+  "topic_summary": {
+    "Topic 3": 2,
+    "Topic 1": 2,
+    "Topic 2": 4
+  },
+  "details": [
+    {
+      "text": "I don't understand where to click to save my work",
+      "intent": "user is confused",
+      "confidence": 0.48,
+      "topic": "Topic 3"
+    },
+    {
+      "text": "This button doesn't do anything when I press it",
+      "intent": "user is confused",
+      "confidence": 0.53,
+      "topic": "Topic 1"
+    },
+    {
+      "text": "Wow this is really easy to use, I love it",
+      "intent": "user is satisfied",
+      "confidence": 0.95,
+      "topic": "Topic 2"
+    },
+    {
+      "text": "Why can't I export my results? I need that for my report",
+      "intent": "user is confused",
+      "confidence": 0.33,
+      "topic": "Topic 2"
+    },
+    {
+      "text": "I've been trying to find the settings for 10 minutes",
+      "intent": "user is frustrated",
+      "confidence": 0.43,
+      "topic": "Topic 2"
+    },
+    {
+      "text": "The save button is really hard to find",
+      "intent": "user is frustrated",
+      "confidence": 0.42,
+      "topic": "Topic 1"
+    },
+    {
+      "text": "I keep losing my progress because I can't find how to save",
+      "intent": "user is frustrated",
+      "confidence": 0.42,
+      "topic": "Topic 3"
+    },
+    {
+      "text": "The interface is very intuitive and clean",
+      "intent": "user is satisfied",
+      "confidence": 0.76,
+      "topic": "Topic 2"
+    }
+  ]
+}
